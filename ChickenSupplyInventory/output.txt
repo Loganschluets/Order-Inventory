@@ -1,0 +1,22 @@
+Total Price			Company Name			# of Chickens		Price Per Chick
+361.00             Zenith Distributors            100                  3.61
+1,251.00           Pretty Chick Foods             300                  4.17
+381.00             Quick Cook Foods Inc.          100                  3.81
+163.50             Williams Brothers Foods        50                   3.27
+690.00             Best Food Farms                200                  3.45
+992.00             Calihan Consolidated Foods     200                  4.96
+621.00             Quick Cook Foods Inc.          200                  3.11
+966.00             International Farms            200                  4.83
+1,214.50           Jones Farms Inc.               350                  3.47
+1,822.75           Quick Cook Foods Inc.          400                  4.56
+223.50             Pretty Chick Foods             50                   4.47
+1,249.25           International Farms            250                  5.00
+399.00             Calihan Consolidated Foods     100                  3.99
+779.50            PepperJet Consolidated Foods   250                  3.12
+--------------------------------------------------------------------------------------
+
+Summary Statistics:
+Average Number of Days a Sold Chick Stayed in the Warehouse: 1.79Total Number of Completed Sales: 14
+Total number of chicks sold: 2750
+Average Price of Each Chick Sold: 4.04
+Gross sales total: 11,114.00
